@@ -245,18 +245,24 @@
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%), url("../img/bg-signup.jpg");
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%), url(".../img/bg-signup.JPG");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
+  font-family: 'Montserrat';
   background-size: cover;
+}
+
+.signup-section h2 {
+  font-family: 'Montserrat';
+  color: 'black';
 }
 
 .signup-section .form-inline input {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
   height: auto;
-  font-family: 'Varela Round';
+  font-family: 'Montserrat';
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: 0.15rem;
