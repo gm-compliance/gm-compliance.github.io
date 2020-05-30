@@ -271,6 +271,7 @@
 
 .contact-section {
   padding: 5rem 0 0;
+  margin-top: 5rem;
 }
 
 .contact-section .card {
@@ -292,7 +293,7 @@
 }
 
 .contact-section .social {
-  margin-top: 5rem;
+  margin-top: 10rem;
 }
 
 .contact-section .social a {
