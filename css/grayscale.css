@@ -251,6 +251,7 @@
   background-attachment: scroll;
   font-family: 'Montserrat';
   background-size: cover;
+  margin-bottom: 7rem;
 }
 
 .signup-section h2 {
@@ -267,6 +268,7 @@
   text-transform: uppercase;
   letter-spacing: 0.15rem;
   border: 0;
+  
 }
 
 .contact-section {
